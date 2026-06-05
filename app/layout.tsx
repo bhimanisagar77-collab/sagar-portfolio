@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sagar Portfolio",
-  description: "Profile and project portfolio website built with Next.js.",
+  title: "Sagar Bhimani | Senior Symfony Backend Developer Portfolio",
+  description: "Professional portfolio of Sagar Bhimani, Senior Symfony Backend Developer with 10+ years of experience in PHP, Symfony framework, API Platform, REST APIs, and database architecture.",
 };
 
 export default function RootLayout({
